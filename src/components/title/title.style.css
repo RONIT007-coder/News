@@ -1,0 +1,19 @@
+.titles {
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  margin-top: 40px;
+  font-weight: 600;
+  width: 50%;
+  height: 60px;
+  text-align: center;
+  line-height: 2.5;
+  background: #000000;
+  background: linear-gradient(
+    90deg,
+    #2DAA9E 0%,
+    #145653 100%
+  );
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 5px;
+  color: white;
+}
